@@ -1,0 +1,10 @@
+{
+    "name": "mbed-coremark-printf",
+    "config": {
+        "enable-float": {
+            "help": "Toggle float support",
+            "value": 0,
+            "macro_name": "HAS_FLOAT"
+        }
+    }
+}
